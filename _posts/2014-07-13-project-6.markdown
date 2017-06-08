@@ -2,8 +2,8 @@
 layout: Xbox Media & Marketplace
 modal-id: 6
 date: 2014-07-15
-img: XBMMssimg.png
-alt: image-alt
+img: XBMMimg2.png
+alt: XBMMssimg.png
 project-date: January 2017
 client: Start Bootstrap
 category: Android Development
