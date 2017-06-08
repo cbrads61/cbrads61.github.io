@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 date: 2014-07-16
 img: ListOfItems.png
-alt: image-alt
+alt: ListOfItems.png
 project-date: September 2016
 client: Start Bootstrap
 category: Android Development
