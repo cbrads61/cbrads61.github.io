@@ -2,11 +2,11 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: FWCmain.png
 alt: image-alt
-project-date: April 2014
+project-date: November 2016
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+category: Android Development
+description: This app was a test project for learning SQLite Databases. It simulates a shopping app (minus the actual payment processes) by loading a list of items into the database, then those items can be searched and sorted to find items the user wants (the items used in this app are from a vendor in the game Destiny by Bungie, all currency is also set to the currency from the game as well). the items can be selected to view items in more detail and can then be added to the users cart. From the cart page users can remove items placed in the cart, change quantities of items in the cart, and "complete purchace" (clears the cart list and total price amount, and gives user notification saying "Purchase Complete") <a href="https://github.com/cbrads61/project-2">Link To Github</a>.
 
 ---
