@@ -7,5 +7,5 @@ alt: image-alt
 project-date: January 2017
 client: Start Bootstrap
 category: Android Development
-description: Test descriptionnnnnnnnn!!!
+description: Xbox Media & Marketplace is an app mainly using API calls to search for an Xbox Live Gamertag, that persons friends, screenshots, and game clips. It can also download these clips or screenshots directly to your Downloads folder in your phone (one of the only apps that can do this at the moment).  Using this app youcan also check the Xbox Live Marketplace to see what new games have been added and what the Xbox Live "Deals with Gold" offers are for the month.
 ---
