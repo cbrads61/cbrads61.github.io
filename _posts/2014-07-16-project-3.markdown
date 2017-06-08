@@ -7,6 +7,6 @@ alt: ListOfItems.png
 project-date: September 2016
 client: Start Bootstrap
 category: Android Development
-description: We were challenged to create a To-Do list application for our first project for school. It is a very simple app that can store multiple To-Do lists with no limit to the items per list.  <a href="FinalListOfItems.png">Link To Github</a>. 
+description: We were challenged to create a To-Do list application for our first project for school. It is a very simple app that can store multiple To-Do lists with no limit to the items per list.  <a href="https://github.com/cbrads61/project-1">Link To Github</a>. 
 
 ---
