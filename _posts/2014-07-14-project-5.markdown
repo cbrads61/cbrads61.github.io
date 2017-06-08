@@ -2,11 +2,11 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+img: VoozFeed.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+category: Android Development
+description: This app was a group project, our goal was to create a news agregation app for Vice.com which we called "Vooz". This application was made to give you the news you want to know about when you want to read it.  On initial login the user can select from the numerous categories of news that Vice.com has to offer (politics, sports, world news, etc.) to make the users "MyFeed" tailored for their interests. After selecting topics the user is prompted select the days/times during the week they typically read or search for news, with this information we create notifications for new articles within the users "MyFeed" topics and only send the notification to the user at the times they indicated that they would read the news (implimented to lessen the "annoyance" some users found from frequent notifications). We also implimented an endless scroll for the feed pages, easy nav-bar, and search functions.  Also each article needed to be parsed and reorganized because their API could only give us the HTML markdown of the articles.  <a href="https://github.com/joelimyx/project-3">Link To Github</a>. Unfortunatly Vice has decided to remove their API system so our app has essentially been depreciated for the time being.
 
 ---
